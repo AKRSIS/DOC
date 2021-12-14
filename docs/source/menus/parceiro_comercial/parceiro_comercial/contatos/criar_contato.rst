@@ -1,25 +1,20 @@
 Criar Contato
-#############
-- Permite gerar um Contato para o Parceiro Comercial.
+#############- Permite gerar um Contato para o Parceiro Comercial.
 
-- Essa opção é chamada através do botão **+ Adicionar Contato** da tela Editar Parceiro Comercial.
+- Essa opção é chamada através do botão **+ Adicionar Contato** da aba Contatos da tela Editar Parceiro Comercial.
 
 |imagem13|
-
-- Após o sistema abrirá uma nova tela para a criação do contato.
+   * Após clicar no botão, o sistema irá abrir uma nova tela para a criação do Contato.
 
 |imagem14|
-   * O sistema valida o Nome do Contato.
-   
+   * O sistema valida o Nome do Contato.   
    * Caso não for informado, é exibida a mensagem.
    
 |imagem15|
 
-- Após informado corretamente os dados do Contato e clicado em **Salvar**, o sistema automaticamente atualizará a Lista dos Contatos.
+- Após informado corretamente os dados do Contato e clicado em **Salvar**, o sistema automaticamente atualizará a Lista de Contatos da tela Editar Parceiro Comercial.
 
 |imagem16|
-
-- Após as alterações efetuadas, basta clicar no botão **Salvar** da tela Editar Parceiro Comercial.
 
 .. |imagem13| image:: imagens/Parceiro_Comercial_13.png
 

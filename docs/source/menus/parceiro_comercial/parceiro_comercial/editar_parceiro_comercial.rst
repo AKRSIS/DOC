@@ -2,26 +2,26 @@ Editar Parceiro Comercial
 #########################
 - A tela da Edição permite alterar os dados de um Parceiro Comercial.
 - Atualiza os Dados Cadastrais, Representante, Contatos, Endereços, Sefaz, Documentos e Dados Complementares.
-
+|br|
 - Esta tela é chamada através da Lista dos Parceiros Comerciais exibida na tela principal do Cadastro.
 - Para isso, basta selecionar um Parceiro Comercial da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
 
 |imagem5|
-   - `Funções da Lista <lista_parceiro_comercial.html#section>`__
-   - Após o sistema irá abrir uma nova tela com o Parceiro Comercial escolhido anteriormente.   
+   * `Funções da Lista <lista_parceiro_comercial.html#section>`__
+   * Após o sistema irá abrir uma nova tela com o Parceiro Comercial escolhido anteriormente.   
 
 |imagem9|
 |imagem9b|
-   - O botão **Salvar** irá atualizar todas as modificações efetuadas.
+   * O botão **Salvar** irá atualizar todas as modificações efetuadas.
 
 - **Dados Cadastrais**
-   - Permite informar os dados de Cadastro da Empresa.
+   * Permite informar os dados de Cadastro da Empresa.
 
 |imagem10|
 |imagem11|
    
 - **Representante**
-   - Permite a escolha de um Representante da Empresa.
+   * Permite a escolha de um Representante da Empresa.
 
 |imagem12|
 
@@ -34,12 +34,16 @@ Editar Parceiro Comercial
     documentos/documentos
 
 - **Complementar**
-   - Mostrará os dados Complementares da Empresa.
-
-|imagem45|
+   * Mostrará os dados Complementares da Empresa.
    * Permite escolher o Segmento da Empresa e definir cores padrão.
 
-- Após as alterações efetuadas, clique em **Salvar** que o sistema atualizará todos os dados.
+|imagem45|   
+
+- Após as alterações efetuadas e clicado em **Salvar** que o sistema atualizará todos os dados da tela.
+
+.. |br| raw:: html
+
+   <br />
 
 .. |imagem5| image:: imagens/Parceiro_Comercial_5.png
 

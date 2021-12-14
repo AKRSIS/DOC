@@ -4,10 +4,12 @@
     "\\docs",
     "\\docs\\source",
     "\\docs\\source\\menus",
-    "\\docs\\source\\menus\\tributacao",
-    "\\docs\\source\\menus\\tributacao\\enquadramento_ncm",
-    "\\docs\\source\\menus\\tributacao\\impostos"
+    "\\docs\\source\\menus\\nota_fiscal\\servicos",
+    "\\docs\\source\\menus\\parceiro_comercial",
+    "\\docs\\source\\menus\\parceiro_comercial\\parceiro_comercial",
+    "\\docs\\source\\menus\\parceiro_comercial\\parceiro_comercial\\contatos",
+    "\\docs\\source\\menus\\parceiro_comercial\\parceiro_comercial\\enderecos",
+    "\\docs\\source\\menus\\parceiro_comercial\\parceiro_comercial\\sefaz"
   ],
-  "SelectedNode": "\\docs\\source\\menus\\tributacao\\enquadramento_ncm\\impostos_enquadramento_ncm.rst",
   "PreviewInSolutionExplorer": false
 }
